@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Danh sách nhà cung cấp</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular.min.js"></script>
+</head>
+
+<body>
+    <div ng-app="myApp" ng-controller="myCtrl">
+        <div ng-repeat="category in categories">
+            <span>{{ category.name }}</span>
+        </div>
+    </div>
+
+    <script>
+        var app = angular.module('myApp', []);
+
+        app.controller('myCtrl', function($scope, $http) {
+            // Khởi tạo danh sách nhà cung cấp rỗng
+            $scope.categories = [];
+            // Gọi API lấy dữ liệu nhà cung cấp từ file Suppliers.js
+            $http.get("Prods.js").then(function(response) {
+                // Lưu dữ liệu nhà cung cấp vào biến $scope.suppliers
+                $scope.categories = response.data;
+                console.log("Số lượng nhà cung cấp:", $scope.categories);
+            }, function(response) {
+                // Hiển thị thông báo lỗi nếu có
+                alert("Lỗi: " + response.statusText);
+            });
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,434 @@
+{
+    "categories": [{
+            "id": 1,
+            "name": "Điện thoại, Tablet",
+            "icon": "fa-solid fa-mobile-screen-button"
+        },
+        {
+            "id": 2,
+            "name": "laptop",
+            "icon": "fa-solid fa-laptop"
+        },
+        {
+            "id": 3,
+            "name": "tai nghe",
+            "icon": "fa-solid fa-headphones-simple"
+        },
+        {
+            "id": 4,
+            "name": "đồng hồ, camera",
+            "icon": "fa-solid fa-camera"
+        },
+        {
+            "id": 5,
+            "name": "đồ gia dụng",
+            "icon": "fa-solid fa-house-laptop"
+        },
+        {
+            "id": 6,
+            "name": "phụ kiện ",
+            "icon": "fa-solid fa-keyboard"
+        },
+        {
+            "id": 7,
+            "name": "tivi",
+            "icon": "fa-solid fa-tv"
+        },
+        {
+            "id": 8,
+            "name": "khuyến mãi",
+            "icon": "fa-solid fa-bullhorn"
+        },
+        {
+            "id": 9,
+            "name": "tin công nghệ",
+            "icon": "fa-solid fa-newspaper"
+        }
+    ],
+    "banner": [{
+            "id": 1,
+            "img": "bn1.webp"
+        },
+        {
+            "id": 2,
+            "img": "bn2.webp"
+        },
+        {
+            "id": 3,
+            "img": "bn3.webp"
+        }
+    ],
+    "banner1": [{
+            "id": 1,
+            "img": "bn1.webp"
+        },
+        {
+            "id": 2,
+            "img": "bn2.webp"
+        },
+        {
+            "id": 3,
+            "img": "bn3.webp"
+        }
+    ],
+    "products": [{
+            "id": 1,
+            "img": "p1.webp",
+            "name": "Máy chiếu mini Wabo T4 Full HD",
+            "description": "Máy chiếu mini Wabo T4 Full HD, Máy chiếu mini Wabo T4 Full HD, Máy chiếu mini Wabo T4 Full HD",
+            "price": 1000000,
+            "price_old": 3900000,
+            "id_cate": 1
+        },
+        {
+            "id": 2,
+            "img": "p2.webp",
+            "name": "Máy chiếu mini Wabo T4 Full HD",
+            "description": "Máy chiếu mini Wabo T4 Full HD, Máy chiếu mini Wabo T4 Full HD, Máy chiếu mini Wabo T4 Full HD",
+            "price": 3000000,
+            "price_old": 3900000,
+            "id_cate": 1
+        },
+        {
+            "id": 3,
+            "img": "p3.webp",
+            "name": "Máy chiếu mini Wabo T4 Full HD",
+            "description": "Máy chiếu mini Wabo T4 Full HD, Máy chiếu mini Wabo T4 Full HD, Máy chiếu mini Wabo T4 Full HD",
+            "price": 3000000,
+            "price_old": 3900000,
+            "id_cate": 1
+        },
+        {
+            "id": 4,
+            "img": "p4.webp",
+            "name": "Máy chiếu mini Wabo T4 Full HD",
+            "description": "Máy chiếu mini Wabo T4 Full HD, Máy chiếu mini Wabo T4 Full HD, Máy chiếu mini Wabo T4 Full HD",
+            "price": 4567890,
+            "price_old": 3900000,
+            "id_cate": 1
+        },
+        {
+            "id": 5,
+            "img": "p5.webp",
+            "name": "Máy chiếu mini Wabo T4 Full HD",
+            "description": "Máy chiếu mini Wabo T4 Full HD, Máy chiếu mini Wabo T4 Full HD, Máy chiếu mini Wabo T4 Full HD",
+            "price": 3000000,
+            "price_old": 3900000,
+            "id_cate": 1
+        },
+        {
+            "id": 6,
+            "img": "lt1.webp",
+            "name": "Laptop ASUS GEN5 2024",
+            "description": "Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024",
+            "price": 3000000,
+            "price_old": 3900000,
+            "id_cate": 2
+        },
+        {
+            "id": 7,
+            "img": "lt2.webp",
+            "name": "Laptop ASUS GEN5 2024",
+            "description": "Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024",
+            "price": 3000000,
+            "price_old": 3900000,
+            "id_cate": 2
+        },
+        {
+            "id": 8,
+            "img": "lt3.webp",
+            "name": "Laptop ASUS GEN5 2024",
+            "description": "Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024",
+            "price": 3000000,
+            "price_old": 3900000,
+            "id_cate": 2
+        },
+        {
+            "id": 9,
+            "img": "lt4.webp",
+            "name": "Laptop ASUS GEN5 2024",
+            "description": "Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024",
+            "price": 3000000,
+            "price_old": 3900000,
+            "id_cate": 2
+        },
+        {
+            "id": 10,
+            "img": "lt5.webp",
+            "name": "Laptop ASUS GEN5 2024",
+            "description": "Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024",
+            "price": 3000000,
+            "price_old": 3900000,
+            "id_cate": 2
+        },
+        {
+            "id": 11,
+            "img": "tn1.webp",
+            "name": "Laptop ASUS GEN5 2024",
+            "description": "Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024",
+            "price": 3000000,
+            "price_old": 3900000,
+            "id_cate": 3
+        },
+        {
+            "id": 12,
+            "img": "tn2.webp",
+            "name": "Laptop ASUS GEN5 2024",
+            "description": "Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024",
+            "price": 3000000,
+            "price_old": 3900000,
+            "id_cate": 3
+        },
+        {
+            "id": 13,
+            "img": "tn3.webp",
+            "name": "Laptop ASUS GEN5 2024",
+            "description": "Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024",
+            "price": 3000000,
+            "price_old": 3900000,
+            "id_cate": 3
+        },
+        {
+            "id": 14,
+            "img": "tn4.webp",
+            "name": "Laptop ASUS GEN5 2024",
+            "description": "Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024",
+            "price": 3000000,
+            "price_old": 3900000,
+            "id_cate": 3
+        },
+        {
+            "id": 15,
+            "img": "tn5.webp",
+            "name": "Laptop ASUS GEN5 2024",
+            "description": "Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024, Laptop ASUS GEN5 2024",
+            "price": 5555555,
+            "price_old": 6661366,
+            "id_cate": 3
+        }
+    ],
+    "accessory": [{
+            "id": 1,
+            "name": "Nổi bật",
+            "img": "pk1.png"
+        },
+        {
+            "id": 2,
+            "name": "Ốp lưng",
+            "img": "pk2.png"
+        },
+        {
+            "id": 3,
+            "name": "Dây xạc",
+            "img": "pk3.png"
+        },
+        {
+            "id": 4,
+            "name": "Sạc dự phòng",
+            "img": "pk4.png"
+        },
+        {
+            "id": 5,
+            "name": "Cường lực",
+            "img": "pk5.png"
+        },
+        {
+            "id": 6,
+            "name": "Bọc laptop",
+            "img": "pk6.png"
+        },
+        {
+            "id": 7,
+            "name": "Smart Watch",
+            "img": "pk7.png"
+        },
+        {
+            "id": 8,
+            "name": "Chuột không dây",
+            "img": "pk8.png"
+        },
+        {
+            "id": 9,
+            "name": "Tay cầm",
+            "img": "pk9.png",
+            "bg_color": "rgb(196, 181, 253);"
+        },
+        {
+            "id": 10,
+            "name": "Router Wifi",
+            "img": "pk10.png",
+            "bg_color": "rgb(114, 203, 215);"
+        },
+        {
+            "id": 11,
+            "name": "Balo",
+            "img": "pk11.png",
+            "bg_color": "rgb(68, 208, 173);"
+        },
+        {
+            "id": 12,
+            "name": "Playstasion",
+            "img": "pk12.png",
+            "bg_color": "rgb(158, 63, 198);"
+        },
+        {
+            "id": 13,
+            "name": "Vệ sinh pc",
+            "img": "pk13.png",
+            "bg_color": "rgb(170, 113, 227);"
+        },
+        {
+            "id": 14,
+            "name": "Tay cầm quay phim",
+            "img": "pk14.png",
+            "bg_color": "rgb(218, 75, 208);"
+        },
+        {
+            "id": 15,
+            "name": "CPU",
+            "img": "pk15.png",
+            "bg_color": "rgb(130, 173, 228);"
+        },
+        {
+            "id": 16,
+            "name": "Laptop",
+            "img": "pk16.png",
+            "bg_color": "rgb(242, 131, 118);"
+        },
+        {
+            "id": 17,
+            "name": "Điện thoại",
+            "img": "pk2.png",
+            "bg_color": "rgb(196, 181, 253);"
+        },
+        {
+            "id": 18,
+            "name": "Sạc dự phòng",
+            "img": "pk4.png",
+            "bg_color": "rgb(114, 203, 215);"
+        },
+        {
+            "id": 19,
+            "name": "Balo",
+            "img": "pk11.png",
+            "bg_color": "rgb(68, 208, 173);"
+        },
+        {
+            "id": 20,
+            "name": "laptop",
+            "img": "pk6.png",
+            "bg_color": "rgb(158, 63, 198);"
+        },
+        {
+            "id": 21,
+            "name": "chuột pc",
+            "img": "pk8.png",
+            "bg_color": "rgb(170, 113, 227);"
+        },
+        {
+            "id": 22,
+            "name": "Router Wifi",
+            "img": "pk10.png",
+            "bg_color": "rgb(218, 75, 208);"
+        },
+        {
+            "id": 23,
+            "name": "Playstasion",
+            "img": "pk12.png",
+            "bg_color": "rgb(130, 173, 228);"
+        },
+        {
+            "id": 24,
+            "name": "quay phim",
+            "img": "pk14.png",
+            "bg_color": "rgb(242, 131, 118);"
+        }
+    ],
+    "banner2": [{
+            "id": 1,
+            "img": "bnf1.webp"
+        },
+        {
+            "id": 2,
+            "img": "bnf2.webp"
+        },
+        {
+            "id": 3,
+            "img": "bnf3.webp"
+        },
+        {
+            "id": 4,
+            "img": "bnf4.webp"
+        },
+        {
+            "id": 5,
+            "img": "bnf5.webp"
+        },
+        {
+            "id": 6,
+            "img": "bnf1.webp"
+        }
+    ],
+    "banner_pay": [{
+            "id": 1,
+            "img": "tt1.webp"
+        },
+        {
+            "id": 2,
+            "img": "tt2.webp"
+        },
+        {
+            "id": 3,
+            "img": "tt3.webp"
+        },
+        {
+            "id": 4,
+            "img": "tt4.webp"
+        }
+    ],
+    "banner_brand": [{
+            "id": 1,
+            "img": "th1.webp"
+        },
+        {
+            "id": 2,
+            "img": "th2.webp"
+        },
+        {
+            "id": 3,
+            "img": "th3.webp"
+        },
+        {
+            "id": 4,
+            "img": "th4.webp"
+        }
+    ],
+    "news": [{
+            "id": 1,
+            "img": "iOS-17-4-1.webp",
+            "title": "Chuyển file ghi âm thành văn bản nhanh chóng Zalo vô cùng tiện lợi"
+        },
+        {
+            "id": 2,
+            "img": "ipad-pro-2024.webp",
+            "title": "Chuyển file ghi âm thành văn bản nhanh chóng Zalo vô cùng tiện lợi"
+        },
+        {
+            "id": 3,
+            "img": "m3-mbp-space-black.webp",
+            "title": "Chuyển file ghi âm thành văn bản nhanh chóng Zalo vô cùng tiện lợi"
+        },
+        {
+            "id": 4,
+            "img": "zalo-bg.webp",
+            "title": "Chuyển file ghi âm thành văn bản nhanh chóng Zalo vô cùng tiện lợi"
+        }
+    ],
+    "users": [{
+        "id": 1,
+        "name": "Ngô Đình Tùng Thi",
+        "phone": "08886665529",
+        "email": "thithi@gmail.com",
+        "password": "123"
+    }]
+}

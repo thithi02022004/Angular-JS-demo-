@@ -1,0 +1,28 @@
+﻿{
+    "categories": [{
+        "name": "zzzhange",
+        "price": "160",
+        "discount": "0.19",
+        "date": "2005-02-13"
+    }, {
+        "name": "zzzhange",
+        "price": "160",
+        "discount": "0.19",
+        "date": "2005-02-13"
+    }, {
+        "name": "zzzhange",
+        "price": "160",
+        "discount": "0.19",
+        "date": "2005-02-13"
+    }, {
+        "name": "zzzhange",
+        "price": "160",
+        "discount": "0.19",
+        "date": "2005-02-13"
+    }, {
+        "name": "zzzhange",
+        "price": "160",
+        "discount": "0.19",
+        "date": "2005-02-13"
+    }]
+}
